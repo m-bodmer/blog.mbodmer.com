@@ -1,0 +1,13 @@
+body.home-template {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+body.home-template #at_footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
